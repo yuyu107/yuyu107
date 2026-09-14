@@ -92,11 +92,13 @@
 
 #### 🎵 yuzusoft 音乐包
 
-2025 年 4 月开始制作 Java 版，同年 7 月移植到基岩版。
+从 **2025 年 4 月 2 日**的 Java 首版开始，于同年 **7 月 4 日**移植到基岩版，并持续跟进游戏更新。
 
-替换游戏内全部背景音乐（不含唱片音乐），并在后续更新中调整了点击音效。
+替换全部背景音乐（不含唱片），调整点击与提示音效；Java 版适配音乐弹窗文本，基岩版加入标题音乐播放方案、设置说明页面与自定义提示文本。
 
-[说明与下载](https://docs.qq.com/aio/DVUdIWVJLY2t0RVNP) · [更新日志](https://docs.qq.com/aio/DVW1uZXJQcFZQaHdW)
+两个平台均提供完整版与精简版，方便按音质和体积需求选择。
+
+[下载音乐包](https://pan.quark.cn/s/37131f855d50) · [使用说明](https://docs.qq.com/aio/DVUdIWVJLY2t0RVNP) · [更新日志](https://docs.qq.com/aio/DVW1uZXJQcFZQaHdW)
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +117,7 @@
 
 ### 内容与分享
 
-除了 GitHub 上的工具与兼容方案，也在 B站分享内容，分享教程与折腾过程。
+除了 GitHub 上的工具与兼容方案，也在 B站分享教程与折腾过程。
 
 | 入口 | 链接 |
 | --- | --- |
