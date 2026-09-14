@@ -68,13 +68,13 @@
 </td>
 <td width="50%" valign="top">
 
-#### 🌿 梦幻花园文本解密器
+#### 🧰 多玩我的世界盒子社区修复
 
-**[Gardenscapes-Text-Decoder](https://github.com/yuyu107/Gardenscapes-Text-Decoder)**
+**[MCPCBox Community Fix](https://github.com/yuyu107/mcpcbox-community-fix)**
 
-提取梦幻花园手游的 PLXE 文本，支持批量处理 XML、ZIP 和文件夹，导出 XML 与 TXT。
+旧版多玩我的世界盒子 PC 版的非官方兼容修复项目。恢复纯净版在线下载、视频与直播页面，修复 Java 和版本信息下载，并提供独立的本地皮肤管理工具。
 
-[使用说明与源码](https://github.com/yuyu107/Gardenscapes-Text-Decoder#readme)
+[使用说明](https://github.com/yuyu107/mcpcbox-community-fix#readme) · [下载发布版](https://github.com/yuyu107/mcpcbox-community-fix/releases)
 
 </td>
 </tr>
@@ -169,8 +169,6 @@
 - **主线与活动剧情**：《梦幻花园》主线，以及三款游戏的活动故事与完结记录。
 - **活动背景音乐**：分享游戏活动中的背景音乐。
 - **游戏流程**：也发布《植物大战僵尸》等游戏的流程视频。
-
-对《梦幻花园》文本处理感兴趣，也可以查看我的 [梦幻花园文本解密器](https://github.com/yuyu107/Gardenscapes-Text-Decoder)。
 
 | B站账号 | 主要内容 | 入口 |
 | --- | --- | --- |
