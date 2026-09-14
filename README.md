@@ -4,7 +4,7 @@
 
 **让旧设备继续发挥价值，把折腾的过程变成实用工具。**
 
-旧版 Windows 兼容 · 游戏工具 · 问题排查与教程分享
+旧版 Windows 兼容 · 游戏工具 · Minecraft 音乐包 · 教程分享
 
 <p>
   <img src="https://img.shields.io/badge/Windows-旧系统兼容-2563EB?style=flat-square" alt="Windows 旧系统兼容" />
@@ -82,9 +82,40 @@
 
 各项目的适用版本、已验证范围与使用方法，请以对应仓库的说明为准。
 
+### Minecraft 音乐包
+
+希望在探索方块世界时，也能好好欣赏音乐。制作和移植的音乐包适用于 **Java 版 1.20.3+ / 基岩版 1.21+**，具体使用方式与下载入口见说明文档。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎵 yuzusoft 音乐包
+
+2025 年 4 月开始制作 Java 版，同年 7 月移植到基岩版。
+
+替换游戏内全部背景音乐（不含唱片音乐），并在后续更新中调整了点击音效。
+
+[说明与下载](https://docs.qq.com/aio/DVUdIWVJLY2t0RVNP) · [更新日志](https://docs.qq.com/aio/DVW1uZXJQcFZQaHdW)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎶 乌托邦自定义音乐 Plus
+
+基于 **Limit小火柴**制作的《乌托邦探险之旅》整合包中的音乐包，进行高版本适配与基岩版移植，随后增加音乐并改称 Plus 版。
+
+替换背景音乐与唱片音乐，保留原有音效；适配 Java 版 1.21.6 的音乐弹窗文本，采用 128 kbps 精简音质。
+
+[说明与下载](https://docs.qq.com/aio/DVUdIWVJLY2t0RVNP)
+
+</td>
+</tr>
+</table>
+
 ### 内容与分享
 
-除了 GitHub 上的工具与兼容方案，也在 B站分享内容，并整理过音乐包相关说明。
+除了 GitHub 上的工具与兼容方案，也在 B站分享内容，分享教程与折腾过程。
 
 | 入口 | 链接 |
 | --- | --- |
