@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Sharing-记录与分享-0891B2?style=flat-square" alt="记录与分享" />
 </p>
 
-[浏览全部项目](https://github.com/yuyu107?tab=repositories) · [最近动态](https://github.com/yuyu107?tab=overview)
+[浏览全部项目](https://github.com/yuyu107?tab=repositories) · [B站大号](https://space.bilibili.com/498528472) · [B站小号](https://space.bilibili.com/1540212606)
 
 </div>
 
@@ -81,6 +81,16 @@
 </table>
 
 各项目的适用版本、已验证范围与使用方法，请以对应仓库的说明为准。
+
+### 内容与分享
+
+除了 GitHub 上的工具与兼容方案，也在 B站分享内容，并整理过音乐包相关说明。
+
+| 入口 | 链接 |
+| --- | --- |
+| 📺 B站大号 | [前往大号空间](https://space.bilibili.com/498528472) |
+| 🎬 B站小号 | [前往小号空间](https://space.bilibili.com/1540212606) |
+| 🎵 音乐包说明 | [有关音乐包的说明 · 腾讯文档](https://docs.qq.com/aio/DVUdIWVJLY2t0RVNP) |
 
 ### 交流与反馈
 
